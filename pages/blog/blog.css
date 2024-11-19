@@ -1,0 +1,26 @@
+@import url("../../css/global.css");
+
+
+.main-title{
+    font-size: 6.4rem;
+}
+.featured-works__desc a{
+    margin-bottom: 1.6rem;
+}
+
+.featured-works__desc time{
+    height: 2.1rem;
+    font-size: 2rem;
+    padding-right: 2.6rem;
+    border-right: 2px solid #000000aa;
+    margin-right: 2.6rem;
+}
+.featured-works__desc span{
+    font-size: 2rem;
+    color: #8695A4;
+    margin-bottom: 1.1rem;
+}
+.featured-works__desc p{
+    width: 68.2rem;
+}
+

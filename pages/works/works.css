@@ -1,0 +1,7 @@
+@import url("../../css/global.css");
+
+.main-title{
+    font-size: 6.4rem;
+    font-weight: 900;
+    padding-bottom: 1.5rem;
+}

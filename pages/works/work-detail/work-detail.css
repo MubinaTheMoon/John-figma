@@ -1,0 +1,37 @@
+@import url("../../../css/global.css");
+
+
+.work-detail h2{
+    font-size: 3.4rem;
+}
+
+.featured-flex span{
+    background-color: #FF7C7C;
+}
+.featured-flex p{
+    color: #21243D;
+}
+.work-detail-desc{
+    color: black;
+    margin-bottom: 4.6rem;
+}
+.img-rect{
+    width: 100%;
+    margin-bottom: 5.4rem;
+}
+
+.work-detail h3{
+    font-size: 3rem;
+}
+.work-detail h4{
+    font-size: 2.4rem;
+}
+.after-heading{
+    width: 67.7rem;
+    color: #000;
+}
+.car,
+.time{
+    width: 100%;
+    margin-bottom: 2.7rem;
+}
